@@ -1,6 +1,8 @@
 # VOIDBLOOM — a neon arena survival shooter
 
-[![make.fun](https://img.shields.io/badge/make.fun-best--game--01-7c5cff)](https://make.fun/bounty/best-game-01)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![make.fun · best-game-01 rank](https://make.fun/badge/best-game-01/ketong112/voidbloom/rank.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![make.fun · best-game-01 reward](https://make.fun/badge/best-game-01/ketong112/voidbloom/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 You are the last Bloomkeeper, a living seed of light, defending the void
 garden against the Blight. Survive the waves, pick a bloom upgrade after
